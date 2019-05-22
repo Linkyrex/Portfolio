@@ -1,4 +1,4 @@
-#Portfolio Page of Tobias Allmendinger#
+# Portfolio Page of Tobias Allmendinger
 
 Forked from:
 gatsby-starter-stellar
