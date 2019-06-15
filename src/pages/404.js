@@ -3,8 +3,12 @@ import Layout from '../components/layout'
 
 const NotFoundPage = () => (
   <Layout>
-    <h1>NOT FOUND</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+    <section className="main special">
+    <h1>404 NOT FOUND</h1>
+</section>
+<section className="major special">
+    <iframe src="https://giphy.com/embed/tvGOBZKNEX0ac" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-coffee-wants-tvGOBZKNEX0ac"></a></p>
+</section>
   </Layout>
 )
 

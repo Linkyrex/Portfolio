@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-stellar",
-  "description": "Gatsby Starter - Stellar by HTML5 UP",
+  "name": "Portfolio",
+  "description": "Portfolio Seite",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Tobias Allmendinger",
   "dependencies": {
     "gatsby": "^2.2.9",
     "gatsby-plugin-manifest": "^2.0.24",
@@ -30,8 +30,6 @@
   "devDependencies": {
     "prettier": "^1.14.2"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  }
+  "repository": "https://github.com/Linkyrex?tab=repositories",
+  "main": "index.js"
 }
